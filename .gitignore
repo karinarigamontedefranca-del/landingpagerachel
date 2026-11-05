@@ -1,0 +1,11 @@
+# materiais internos: não sobem para o GitHub (o repositório é público)
+site/
+*.ogg
+*.docx
+*.pdf
+Transcri*
+# sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+assets/img/clientes-p/
